@@ -35,7 +35,7 @@ A modern React application for managing multiple timers with categories, progres
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/timer-master.git
+git clone https://github.com/debabrata-pw08-429/timer-master.git
 ```
 
 2. Navigate to the project directory:
